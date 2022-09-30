@@ -1,4 +1,7 @@
 ### Olá, me chamo Gustavo Muniz 
+
+Estudante de análise e desenvolvimento de sistema na Universidade Cruzeiro do sul, procurando uma oportunidade como desenvolvedor back-end, atualmente estudando java e o ecossistema Spring.
+
 #
 <div>
 <a href="https://github.com/seu-usuário-aqui">
